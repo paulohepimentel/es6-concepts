@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" title="Logo" src="img/logo.png" width="600px" />
+    <img alt="Logo" title="Logo" src="img/logo.png" width="700px" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## ✦ Curso
 <p align="justify">
-O curso faz parte do pacote Starter da Rocketseat e tem como ideia, o foco e a explicação dos conceitos fundamentais dessa versão do Javascript. O curso tem como metodologia a abordagem teórica através das aulas e uma abordagem prática através dos exercícios disponibilizados ao final de cada módulo.
+O curso faz parte do pacote Starter da @Rocketseat e tem como ideia, o foco e a explicação dos conceitos fundamentais dessa versão do Javascript. O curso tem como metodologia a abordagem teórica através das aulas e uma abordagem prática através dos exercícios disponibilizados ao final de cada módulo.
 </p>
 
 ## ✦ Conceitos
