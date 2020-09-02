@@ -8,7 +8,6 @@
   <a href="#-conceitos">Conceitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-dependencias">Dependências</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## ✦ Curso
